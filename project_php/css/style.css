@@ -16,6 +16,24 @@ header {
 }
 
 header img {
-    width: 100px;
+    width: 120px;
     padding: 10px 20px;
-}      
+} 
+
+/* MAIN */
+.albums-card{
+    width: 1200px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    
+}
+
+.album{
+    width: 200px;
+    background-color: #2E3A46;
+    margin: 50px 20px;
+}
+
+.album h4{
+    font-size: 1.5rem;
+}
