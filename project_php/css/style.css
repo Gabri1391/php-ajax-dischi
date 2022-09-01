@@ -1,0 +1,21 @@
+/* Generics */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{ 
+    background-color:#1E2D3B;
+}
+
+/* HEADER */
+header {
+    height: 100px;
+    background-color: #2e3a46;
+}
+
+header img {
+    width: 100px;
+    padding: 10px 20px;
+}      
